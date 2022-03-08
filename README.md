@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./userbot/resources/rpan.gif" width="35px">rpan PROJECTS<img src="./userbot/resources/rpan.gif" width="35px"></h1>
+<h1 align="center"><img src="./userbot/resources/rpan.gif" width="35px">RPAN PROJECTS<img src="./userbot/resources/rpan.gif" width="35px"></h1>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/kuinginngopi/Rpan-Userbot)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)](https://GitHub.com/kuinginngopi/Rpan-Userbot/graphs/commit-activity)
